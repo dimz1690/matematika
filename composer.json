@@ -3,6 +3,7 @@
     "description": "Kumpulan rumus-rumus matematika berserta perhitungannya.",
     "type": "library",
     "license": "MIT",
+    "version": "1.0",
     "autoload": {
         "psr-4": {
             "dimz1690\\Matematika\\": "src/"
